@@ -14,7 +14,8 @@ body {
 }
 body, input[type="text"], button {
   color: #333;
-  font-family: Cambria, Georgia, serif;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
 }
 /* everywhere else */
 * {
